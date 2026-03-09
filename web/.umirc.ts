@@ -1,7 +1,7 @@
 ﻿import { defineConfig } from 'umi';
 
 export default defineConfig({
-  title: 'RAGFlow Admin',
+  title: '智启科技知识库平台',
   links: [
     { rel: 'icon', href: '/logo.svg', type: 'image/svg+xml' },
   ],
