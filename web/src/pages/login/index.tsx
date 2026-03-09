@@ -98,8 +98,8 @@ const Login: React.FC = () => {
       {/* Header with logo */}
       <header className={styles.header}>
         <div className={styles.logo}>
-          <img src="/logo.svg" alt="RAGFlow Admin" />
-          <span>RAGFlow Admin</span>
+          <img src="/logo.svg" alt="智启科技知识库平台" />
+          <span>智启科技知识库平台</span>
         </div>
         <div className={styles.headerRight}>
           <LanguageSwitcher />
